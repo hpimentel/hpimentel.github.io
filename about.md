@@ -12,10 +12,13 @@ I enjoy the outdoors and soccer, but nothing beats reading a good article, book,
 
 ### Education
 
-## Southern Adventist University | May 2015
+#### Southern Adventist University | May 2015
 I am graduation with a B.S. in Computer Science and Math (dual majors.) 
 
 ### Experience
+#### Software Developer Intern | Center for Innovation and Research in Computing at Southern Adventist University | April 2014 - Present
+In the year I have been an intern, I have been involved in several projects
+
 
 
 ### Contact me
