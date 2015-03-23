@@ -24,15 +24,13 @@ I am graduation with a B.S. in Computer Science and Math (dual majors.)
 In the year I have been an intern, I have been involved in several projects. Here is some of the most remarkable ones:
 
 1. Android
-
-* **ShareHim Android:** First Android app during my internship. As a group project, I helped develop the upload feature of the app. I implemented a way for the user to upload files to a server. The uploads happen in the background and can be stop and resumed later. I also implemented a way to view the images and the sound recorded by the app as if it was a video. It gave experience on Android UI as well. 
-*  **FFMPEG:** In order to test if our mobile devices could handle encoding videos, I was given the tast to test FFMPEG on Android. I developed an app using a FFMPEG library to change a video's resolution and frame rate.
-* **Devoted:** This was a solo project and it involved fetching a RSS Feed from a server and creating a list of devotionals that users can read online and offline. The project was done for Android and it involved using external libraries such as _Picasso_. Download A link to [Devoted for Android](https://play.google.com/store/apps/details?id=edu.southern.cs.circ.devoted).
+  * **ShareHim Android:** First Android app during my internship. As a group project, I helped develop the upload feature of the app. I implemented a way for the user to upload files to a server. The uploads happen in the background and can be stop and resumed later. I also implemented a way to view the images and the sound recorded by the app as if it was a video. It gave experience on Android UI as well. 
+  *  **FFMPEG:** In order to test if our mobile devices could handle encoding videos, I was given the tast to test FFMPEG on Android. I developed an app using a FFMPEG library to change a video's resolution and frame rate.
+  * **Devoted:** This was a solo project and it involved fetching a RSS Feed from a server and creating a list of devotionals that users can read online and offline. The project was done for Android and it involved using external libraries such as _Picasso_. Download A link to [Devoted for Android](https://play.google.com/store/apps/details?id=edu.southern.cs.circ.devoted).
 
 2. Web
-
-*I worked on 2 LAMP web apps. In the first app I developed a chat-like feature, the admin site, the encoding of files using FFMPEG in the server, and the integration of a video player to watch the encoded videos. I used JavaScript, jQueyr, HTML/CSS for the front-end features.
-For the second app, I used Bootstrap to develop a highschool's online application forms. I also added online payment support with Stripe.
+  * I worked on 2 LAMP web apps. In the first app I developed a chat-like feature, the admin site, the encoding of files using FFMPEG in the server, and the integration of a video player to watch the encoded videos. I used JavaScript, jQueyr, HTML/CSS for the front-end features.
+  For the second app, I used Bootstrap to develop a highschool's online application forms. I also added online payment support with Stripe.
 
 I used git for all the projects through Bitbucket and Github. I also learn to manage the Linux server we use.
 
@@ -41,6 +39,7 @@ I used git for all the projects through Bitbucket and Github. I also learn to ma
 ### Skills
 #### Proficient
 * C++, Java (Android), Java, SQL
+
 #### Prior Experience
 * Python, Scala, javaScript, C# (.NET)
 
