@@ -52,6 +52,8 @@ I got to use different technologies for different projects during school. I crea
 ### Buzzwords
 I learned programming with **C++** and I used some **Python**, **Scala** and **.Ne**t for a couple projects. I started writing code in my internship with **Java** and **PHP**. I also have experience with **MySQL** and **Linux**. The nature of my work led me to also work on some front-end features with **jQuery**, **HTML/CSS** and **Twitter's Bootstrap**.
 
+----
+
 ### Contact me
 
 [halainpb@gmail.com](halainpb@gmail.com)
