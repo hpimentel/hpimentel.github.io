@@ -1,6 +1,6 @@
 ---
 layout: post
-title: *Devoted* for Android 
+title: Devoted for Android 
 ---
 
 *Devoted* is an app for Android that takes and displays an RSS feed that gets updated daily. The app allows users to check for new devotionals every day and also to read all previous devotionals available. The user can share their favorite devotionals and subscribe to a different list of topics.
