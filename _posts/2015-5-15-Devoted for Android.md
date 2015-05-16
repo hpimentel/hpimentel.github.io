@@ -15,6 +15,7 @@ One of the features of the app is that it caches previously seen devotionals, in
 
 Another problem was having text wrapping around an image, which surprisingly Android does not support. After hours of trying things and searching on StackOverflow, I was able to find a library that along with a quick fix that conveyed converting pixel size to sp, fixed my problem (You can see more about this problem [here](http://stackoverflow.com/questions/26111609/android-text-around-image-bug/26183259#26183259) and visualize it below).
 
+![Devoted bug]({{ site.url }}/images/2015-3-22/devotedProblem.jpg)
 
 The app is out and you can download it in the [Play Store](https://play.google.com/store/apps/details?id=edu.southern.cs.circ.devoted).
 
