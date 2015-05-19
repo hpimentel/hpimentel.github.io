@@ -7,7 +7,7 @@ Let us start with a small introduction. My name is Alain Pimentel and currently 
 
 Now, I've been meaning to start a blog for a while now. However, school work and internship has left me with little to no time for my own projects! 
 
-And then _github.io_ came. Really, a great tool to start something fast and convenient! Github user also has a great repo to get started with Jekyll templating.
+And then _github.io_ came. Really, a great tool to start something fast and convenient! Github user [barryclark](https://github.com/barryclark/jekyll-now) also has a great repo to get started with Jekyll templating.
 
 And so, expect posts about software development, Android, LaTex, ASOIAF, Barcelona, and other non-sense.
 
