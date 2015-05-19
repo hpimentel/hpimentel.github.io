@@ -6,7 +6,7 @@
 name: Alain Pimentel
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Collegedale, TN
+description: Software Engineer from Palo Alto, CA
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: http://www.gravatar.com/avatar/dc41cd0d8291b18921f9b17f7d8f5a3d.png
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: hpimentel
   instagram:
-  linkedin:
+  linkedin: alainpimentel
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: alainPimentel
