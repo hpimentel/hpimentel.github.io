@@ -9,7 +9,7 @@ Now, I've been meaning to start a blog for a while now. However, school work and
 
 And then _github.io_ came. Really, a great tool to start something fast and convenient! Github user also has a great repo to get started with Jekyll templating.
 
-And so, expect posts about sofware development, Android, LaTex, ASOIAF, Barcelona, and other non-sense.
+And so, expect posts about software development, Android, LaTex, ASOIAF, Barcelona, and other non-sense.
 
 In the mean time, check this awesome goal by Luis Suárez at today's _Clásico_. Visca el Barça!
 
